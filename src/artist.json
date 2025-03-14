@@ -1,0 +1,113 @@
+{
+    "name": "Persona 3 Reload꞉ Episode Aigis",
+    "albumCover": "/images/albumCovers/Aigis-cover.jpg",
+    "releaseYear": "2025",
+    "tracks": [
+        {
+            "id": 1,
+            "name": "Disconnected",
+            "path": "/songs/Disconnected.mp3"
+        },
+        {
+            "id": 2,
+            "name": "Brand New Days -The Beginning- (P3R Version)",
+            "path": "/songs/Brand New Days -The Beginning- (P3R Version).mp3"
+        },
+        {
+            "id": 3,
+            "name": "Opening Act (P3R Version)",
+            "path": "/songs/Opening Act (P3R Version).mp3"
+        },
+        {
+            "id": 4,
+            "name": "331 (P3R Version)",
+            "path": "/songs/331 (P3R Version).mp3"
+        },
+        {
+            "id": 5,
+            "name": "Blind Alley (P3R Version)",
+            "path": "/songs/Blind Alley (P3R Version).mp3"
+        },
+        {
+            "id": 6,
+            "name": "the Abyss of Time (P3R Version)",
+            "path": "/songs/the Abyss of Time (P3R Version).mp3"
+        },
+        {
+            "id": 7,
+            "name": "Don't",
+            "path": "/songs/Don't.mp3"
+        },
+        {
+            "id": 8,
+            "name": "Mass Destruction -P3fes Reload-",
+            "path": "/songs/Mass Destruction -P3fes Reload-.mp3"
+        },
+        {
+            "id": 9,
+            "name": "Snow Queen's Theme -Reload-",
+            "path": "/songs/Snow Queen's Theme -Reload-.mp3"
+        },
+        {
+            "id": 10,
+            "name": "Maya's Theme -Reload-",
+            "path": "/songs/Maya's Theme -Reload-.mp3"
+        },
+        {
+            "id": 11,
+            "name": "Desert of Doors (P3R Version)",
+            "path": "/songs/Desert of Doors (P3R Version).mp3"
+        },
+        {
+            "id": 12,
+            "name": "Glimpse of the Past (P3R Version)",
+            "path": "/songs/Glimpse of the Past (P3R Version).mp3"
+        },
+        {
+            "id": 13,
+            "name": "Heartful Cry (P3R Version)",
+            "path": "/songs/Heartful Cry (P3R Version).mp3"
+        },
+        {
+            "id": 14,
+            "name": "Persona -Reload-",
+            "path": "/songs/Persona -Reload-.mp3"
+        },
+        {
+            "id": 15,
+            "name": "Time Castle -Reload-",
+            "path": "/songs/Time Castle -Reload-.mp3"
+        },
+        {
+            "id": 16,
+            "name": "Seal (P3R Version)",
+            "path": "/songs/Seal (P3R Version).mp3"
+        },
+        {
+            "id": 17,
+            "name": "Darkness (P3R Version)",
+            "path": "/songs/Darkness (P3R Version).mp3"
+        },
+        {
+            "id": 18,
+            "name": "Brand New Days -Reload-",
+            "path": "/songs/Brand New Days -Reload-.mp3"
+        },
+        {
+            "id": 19,
+            "name": "Disconnected (Opening Movie Version)",
+            "path": "/songs/Disconnected (Opening Movie Version).mp3"
+        },
+        {
+            "id": 20,
+            "name": "Memories of You -Living with Determination Arrangement-",
+            "path": "/songs/Memories of You -Living with Determination Arrangement-.mp3"
+        },
+        {
+            "id": 21,
+            "name": "P3 Fes -Reload-",
+            "path": "/songs/P3 Fes -Reload-.mp3"
+        }
+    ]
+}
+
