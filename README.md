@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+
 # home-made-spotify
-=======
 
 This is a Spotify clone created to sharpen front-end skills and learn how to handle MP3 files on the web. It was a great experience, and the best part was enjoying this amazing soundtrack! :P
 
