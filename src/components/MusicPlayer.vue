@@ -19,7 +19,7 @@ let isTrackTimeTotal = ref(null)
 let seeker = ref(null)
 let seekerContainer = ref(null)
 let range = ref(0)
-
+ 
 onMounted(() => {
 
     if (audio.value) {
